@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="2025-08-25_19 16 25" src="https://github.com/user-attachments/assets/0878128b-6b0b-4b56-bb6e-b0e8a3041dde" />My Old project from 20/04/2024 *(That's when I started, there were many updates as the time passed, also after deciding not to release the client I was just messing around and breaking/testing stuff)*
+My Old project from 20/04/2024 *(That's when I started, there were many updates as the time passed, also after deciding not to release the client I was just messing around and breaking/testing stuff)*
 
 **A lot of stuff was broken/deleted after discontinuing the client**
 
